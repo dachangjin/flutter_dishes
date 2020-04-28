@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "df4e156de6f8c67b60f4939b1ff83f7a"
+build_time: [1588073094, 422220000]
+inputs:
+  "/Users/wangwei/Documents/flutter\u7EC3\u624B/favoritecake/ios/Runner/AppDelegate.swift": [1581401376, 0]

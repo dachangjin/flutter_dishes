@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/wangwei/Documents/flutter练手/favoritecake/ios/Flutter/Flutter.framework/Headers/Flutter.h
